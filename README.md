@@ -60,7 +60,7 @@ Save `scanmos.py` to your device.
 *No installation or dependencies required!*
 
 ### 2️⃣ Run it
-```bash
+
 python scanmos.py
 <img width="1079" height="948" alt="Screenshot_2026-07-19-11-35-07-28_c759c44d10a956b96f85cc66750ff86e" src="https://github.com/user-attachments/assets/8b1fe1a8-4b59-4b7a-a85d-d0a789a3266b" />
 
